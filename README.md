@@ -1,2 +1,1 @@
-# TinDog-Start-master
-My fun side.
+TinDog Starting Files

@@ -1,0 +1,95 @@
+
+body{
+font-family: "Montserrat";
+}
+#title{
+background-color: coral;
+color: #fff;
+}
+.container-fluid{
+padding: 5% 10%;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+/* Navigation Bar */
+h3{
+
+font-family: Arial, Helvetica, sans-serif ;
+
+}
+h2{
+font-family: cursive;
+font-size: 3rem;
+line-height: 1.5;
+
+}
+.navbar{
+
+    padding: 4.5rem;
+}
+
+.navbar-brand{
+
+font-family: "Ubuntu";
+font-size: 2.5rem;
+}
+.navbar-item{
+
+    padding: 0px 15px;
+}
+
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.download-button{
+
+margin:5% 5% 5% 0% ;
+
+}
+.dogimage{
+width: 60% ;
+transform: rotate(15deg);
+}
+
+.icon{
+color: #000;
+margin-bottom: 1rem;
+
+
+}
+.icon:hover{
+  color: crimson ;
+
+}
+#testimonials{
+background-color: yellow;
+    padding: 7% 15%;
+text-align: center;
+
+color: #000; 
+}
+.testimonial-image{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+#carouselExampleIndicators{
+
+    width: 100%;
+}
+#press{
+background-color: aquamarine;
+text-align: center;
+padding: 3%;
+}
+.press-logo{
+
+    width: 15%;
+    margin: 20px;
+}
